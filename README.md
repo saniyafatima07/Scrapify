@@ -31,3 +31,16 @@ Demo video:   [Click here](https://drive.google.com/file/d/1lHz8sArVlEQUquAMxhyA
   - Database: `MongoDB`
 ---
 
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
